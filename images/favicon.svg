@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Retto uPVC</title>
+  <defs>
+    <linearGradient id="f" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff4d4d" />
+      <stop offset="100%" stop-color="#ff0000" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#1f1f1f" />
+  <path d="M16 16h20c6.6 0 12 5.4 12 12 0 5.7-3.9 10.4-9.2 11.6L44 48H34l-8-14h6c2.2 0 4-1.8 4-4s-1.8-4-4-4H16z" fill="url(#f)" />
+</svg>
