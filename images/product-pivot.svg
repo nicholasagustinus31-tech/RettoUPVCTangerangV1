@@ -1,0 +1,16 @@
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Profile Pivot</title>
+  <defs>
+    <linearGradient id="pivot" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe5e5" />
+      <stop offset="100%" stop-color="#ff2b2b" />
+    </linearGradient>
+  </defs>
+  <rect width="480" height="360" rx="32" fill="url(#pivot)" />
+  <g fill="#fff">
+    <rect x="150" y="60" width="180" height="240" rx="16" opacity="0.9" />
+    <circle cx="240" cy="180" r="12" fill="#ff0000" />
+    <rect x="230" y="70" width="20" height="220" fill="#ff0000" opacity="0.5" />
+  </g>
+  <text x="50%" y="330" text-anchor="middle" font-family="Poppins, sans-serif" font-size="24" fill="#ffffff" opacity="0.9">Pivot Door</text>
+</svg>
